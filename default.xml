@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote fetch="git@github.com:KwonHyeonSu" name="hsgit"/>
-    <default revision="master" remote="origin"/>
 
     <project groups="main" name="poky_name" path="poky" remote="hsgit"/>    
 </manifest>
