@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote fetch="git@github.com:KwonHyeonSu" name="hsgit"/>
-    <default revision="main" remote="origin"/>
+    <default revision="main" remote="hsgit"/>
 
-    <project groups="main" name="poky_name" path="poky" remote="hsgit"/>    
+    <project groups="main" name="poky_name" path="poky" revision="kirkstone" remote="hsgit"/>    
 </manifest>
