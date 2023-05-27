@@ -3,5 +3,5 @@
     <remote fetch="git@github.com:KwonHyeonSu" name="hsgit"/>
     <default revision="main" remote="hsgit"/>
 
-    <project groups="main" name="poky_name" path="poky" revision="kirkstone" remote="hsgit"/>    
+    <project groups="main" name="poky" path="poky" revision="kirkstone" remote="hsgit"/>    
 </manifest>
