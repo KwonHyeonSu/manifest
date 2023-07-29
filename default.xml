@@ -3,5 +3,6 @@
     <remote name="origin" fetch="ssh://git@github.com/"/>
 
     <project remote="origin" name="KwonHyeonSu/linux-buildtest_1.git" path="tmp_path" revision="hs_release"/>
+    <project remote="origin" name="KwonHyeonSu/poky.git" path="poky" revision="master"/>
 
 </manifest> 
