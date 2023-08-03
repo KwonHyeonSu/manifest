@@ -6,5 +6,5 @@
     <project remote="origin" name="KwonHyeonSu/poky.git" path="poky" revision="master"/>
     <project remote="origin" name="KwonHyeonSu/build-hyeonsu.git" path="HS/build" revision="main"/>
         <linkfile dest="hs_build.sh" src="hs_build.sh">
-
+    </project>
 </manifest> 
