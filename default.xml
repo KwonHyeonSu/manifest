@@ -4,7 +4,7 @@
 
     <project remote="origin" name="KwonHyeonSu/linux-buildtest_1.git" path="tmp_path" revision="hs_release"/>
     <project remote="origin" name="yoctoproject/poky" path="poky" revision="kirkstone"/>
-    <project remote="origin" name="KwonHyeonSu/meta-hs.git" path="HS/meta-hs" revision="main"/>
+    <project remote="origin" name="KwonHyeonSu/meta-hs.git" path="HS/meta-hs" revision="master"/>
     <project remote="origin" name="KwonHyeonSu/build-hyeonsu.git" path="HS/build" revision="main">
         <linkfile dest="hs_build.sh" src="hs_build.sh"/>
     </project>
